@@ -36,9 +36,12 @@ https://github.com/gurnitha/mern-fullecommerce-shopit
         modified:   package.json
         modified:   readme.md
 
+### 1.6 Creating First Route
 
-
-
+        modified:   backend/app.js
+        new file:   backend/controllers/productController.js
+        new file:   backend/routes/productRoute.js
+        modified:   readme.md
 
 
 
