@@ -43,6 +43,9 @@ https://github.com/gurnitha/mern-fullecommerce-shopit
         new file:   backend/routes/productRoute.js
         modified:   readme.md
 
+#### 1.7 Setting up Postman environment
+
+        modified:   readme.md
 
 
 
