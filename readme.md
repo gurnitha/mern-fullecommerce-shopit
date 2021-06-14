@@ -23,9 +23,12 @@ https://github.com/gurnitha/mern-fullecommerce-shopit
         modified:   package.json
         modified:   readme.md
 
+#### 1.4 Setting up the server
 
-
-
+        new file:   backend/app.js
+        new file:   backend/config/config.env
+        new file:   backend/server.js
+        modified:   readme.md
 
 
 
