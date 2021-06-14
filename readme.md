@@ -47,7 +47,12 @@ https://github.com/gurnitha/mern-fullecommerce-shopit
 
         modified:   readme.md
 
+#### 1.8 Connecting to MongoDB
 
+        modified:   backend/config/config.env
+        new file:   backend/config/database.js
+        modified:   backend/server.js
+        modified:   readme.md
 
 
 
