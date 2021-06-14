@@ -15,7 +15,13 @@ https://github.com/gurnitha/mern-fullecommerce-shopit
         gurnitha/mern-fullecommerce-shopit
         modified:   readme.md
 
+#### 1.3 Install packages: express, dotenv and mongoose
 
+		λ npm install express dotenv mongoose
+        modified:   .gitignore
+        new file:   package-lock.json
+        modified:   package.json
+        modified:   readme.md
 
 
 
