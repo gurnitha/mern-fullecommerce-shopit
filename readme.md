@@ -30,8 +30,11 @@ https://github.com/gurnitha/mern-fullecommerce-shopit
         new file:   backend/server.js
         modified:   readme.md
 
+#### 1.5 Installing & Setting up Nodemon
 
-
+        modified:   package-lock.json
+        modified:   package.json
+        modified:   readme.md
 
 
 
