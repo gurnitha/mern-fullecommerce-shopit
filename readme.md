@@ -2,7 +2,7 @@
 
 https://github.com/gurnitha/mern-fullecommerce-shopit
 
-### 1. Starting the backend
+### 1. STARTING THE BACKEND
 
 #### 1.1 Initialize the project 
 
@@ -54,11 +54,12 @@ https://github.com/gurnitha/mern-fullecommerce-shopit
         modified:   backend/server.js
         modified:   readme.md
 
+### 2. ADDING PRODUCTS RESOURCE
 
+#### 2.1 Creating Product Model 
 
-
-
-
+        new file:   backend/models/productModel.js
+        modified:   readme.md
 
 
 
